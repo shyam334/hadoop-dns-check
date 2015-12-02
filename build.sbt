@@ -1,4 +1,4 @@
-name := "hadoop-dns-checker"
+name := "hadoop-dns-check"
 
 version := "1.0"
 
