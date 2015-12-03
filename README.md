@@ -1,9 +1,9 @@
-# hadoop-dns-check
+# hadoop dns check
 
 A cleaner implemenation `shyam334/hadoop-dns-checker` in scala. (which is a fork from `sujee/hadoop-dns-checker`)
 
 Hadoop is very picky about DNS. Usually it uses java `InetAddress` api's for it.
-But there are also places where `JNDI` is used for reverse lookup. (I was bit by a 'behaviour' in HBase with it).
+But there are also places where `JNDI` is used for reverse lookup. (I was bit by a 'behaviour' of HBase with it).
 
 This is meant to be a small utility to quickly diaganose how DNS would work in hadoop/java.
 
