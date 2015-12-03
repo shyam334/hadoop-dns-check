@@ -1,5 +1,7 @@
 # hadoop dns check
 
+[![Build Status](https://travis-ci.org/shyam334/hadoop-dns-check.svg?branch=master)](https://travis-ci.org/shyam334/hadoop-dns-check)
+
 A cleaner implemenation `shyam334/hadoop-dns-checker` in scala. (which is a fork from `sujee/hadoop-dns-checker`)
 
 Hadoop is very picky about DNS. Usually it uses java `InetAddress` api's for it.
